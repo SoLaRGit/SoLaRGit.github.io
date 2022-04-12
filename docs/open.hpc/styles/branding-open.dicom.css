@@ -1,0 +1,362 @@
+/********************************************************************************
+ *** Module Table inner table : Enumerated values 
+ ********************************************************************************/
+table.moduletable > tbody > tr > td > table > tbody > tr > td
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+/****************************************************************************************** 
+    div.iodtable 
+*/
+div.iodtable
+{
+    padding: 10px 1px 0px 0px;
+    /*background-color: #fefefe;*/
+    /*border: 1px solid #f8f8f8;/**/
+}
+
+/* table.iodtable */
+table.iodtable
+{
+    width: 100%;
+    /*min-width: 550px;*/
+}
+
+table.iodtable th
+{
+    border-right: 1px solid #fff;
+}
+
+table.iodtable td
+{
+    border-bottom: 1px solid #fffff8;
+}
+
+table.iodtable td > a
+{
+    color: #2e2e60;
+    border-bottom: 1px solid #eef;
+}
+
+table.iodtable td > a:hover
+{
+    color: #2070D0;
+    border-bottom: 1px solid #a0b0ff;
+}
+
+table.iodtable > thead > tr > th,
+table.iodtable > tbody > tr > th
+{
+    font-weight: 300;
+    font-size: 15px;
+    border-top: 1px solid #dbdbdb;
+}
+
+table.iodtable > thead > tr > th.col0,
+table.iodtable > tbody > tr > th.col0
+{
+    min-width: 150px;
+    width: 150px;
+}
+
+table.iodtable > thead > tr > th.col1,
+table.iodtable > tbody > tr > th.col1
+{
+    min-width: 20px;
+    width: 20px;
+}
+
+table.iodtable > thead > tr > th.col2,
+table.iodtable > tbody > tr > th.col2
+{
+    min-width: 240px;
+    width: 240px;
+}
+
+table.iodtable > thead > tr > th.col3,
+table.iodtable > tbody > tr > th.col3
+{
+    min-width: 30px;
+    width: 30px;
+}
+
+table.iodtable > thead > tr > th.col4,
+table.iodtable > tbody > tr > th.col4
+{
+    min-width: 250px;
+}
+
+/*     
+    border-bottom: 1px solid #dbdbdb; 
+*/
+table.iodtable > tbody > tr > th.group,
+table.iodtable > tbody > tr > td.group,
+table.iodtable > tbody > tr > th.last,
+table.iodtable > tbody > tr > td.last
+{
+    border-bottom: 1px solid #dbdbdb;
+    padding: 3px 5px 10px 5px;
+}
+
+table.iodtable > thead > tr > th,
+table.iodtable > thead > tr > td,
+table.iodtable > tbody > tr > th,
+table.iodtable > tbody > tr > td
+{
+    padding: 3px 5px 3px 5px;
+}
+
+
+/****************************************************************************************** 
+    div.moduletable 
+*/
+div.moduletable
+{
+    padding: 10px 10px 0px 10px;
+    border: 1px solid #c0c0c0;
+}
+
+/* 
+    table.moduletable 
+*/
+table.moduletable
+{
+    width: 100%;
+    /*border: 1px solid #c0c0c0 !important;*/
+}
+
+table.moduletable > thead > tr :nth-child(2)
+{
+    border: 1px solid #939393 !important;
+}
+
+table.moduletable th
+{
+    border-right: 1px solid #fff;
+}
+
+table.moduletable td
+{
+    /*border-right: 1px solid #f8f8f8;/**/
+}
+
+table.moduletable td > a
+{
+    color: #2e2e60;
+    border-bottom: 1px solid #eef;
+}
+
+table.moduletable td > a:hover
+{
+    color: #2070D0;
+    border-bottom: 1px solid #a0b0ff;
+}
+
+table.moduletable > thead > tr > th,
+table.moduletable > tbody > tr > th
+{
+    font-weight: 300;
+    font-size: 15px;
+    border-top: 1px solid #dbdbdb;
+    
+}
+/* level */
+table.moduletable > thead > tr > th.col0,
+table.moduletable > tbody > tr > th.col0
+{
+    min-width: 10px;
+    width: 1px;
+}
+/* tag || Include */
+table.moduletable > thead > tr > th.col1,
+table.moduletable > tbody > tr > th.col1
+{
+    min-width: 40px;
+    width: 40px;
+}
+
+table.moduletable > tbody > tr > td:nth-child(2)
+{
+    width: 40px;
+}
+
+table.moduletable > tbody > tr
+{
+    background-color: #fefefe;
+}
+
+table.moduletable > tbody > tr.include
+{
+    max-width: 250px;
+    width: 250px;
+    background-color: #f0fff8;
+}
+
+table.moduletable > tbody > tr.doconly
+{
+    max-width: 250px;
+    width: 250px;
+    background-color: #fffcf0;
+}
+
+table.moduletable > tbody > tr.other
+{
+    max-width: 250px;
+    width: 250px;
+    background-color: #f8f8f0;
+}
+
+/* Attribute Name || Desc */
+table.moduletable > thead > tr > th.col2,
+table.moduletable > tbody > tr > th.col2
+{
+    min-width: 200px;
+    width: 200px;
+}
+
+/* Type */
+table.moduletable > thead > tr > th.col3,
+table.moduletable > tbody > tr > th.col3
+{
+    min-width: 10px;
+    max-width: 50px;
+    width: 30px;
+}
+/*     
+    border-bottom: 1px solid #dbdbdb; 
+*/
+table.moduletable > tbody > tr > th.group,
+table.moduletable > tbody > tr > td.group,
+table.moduletable > tbody > tr > th.last,
+table.moduletable > tbody > tr > td.last
+{
+    border-bottom: 3px solid #dbdbdb;
+}
+
+table.moduletable > thead > tr > th,
+table.moduletable > thead > tr > td,
+table.moduletable > tbody > tr > th,
+table.moduletable > tbody > tr > td
+{
+    padding: 3px 5px 3px 5px;
+}
+
+/********************************************************************************
+ *** DICOM documentation tables 
+ ********************************************************************************/
+
+table.dicom
+{
+    width: auto;
+    border: 1px solid #e0e0e0;
+}
+
+table.dicom > tbody > tr > td
+{
+    font-weight: 600;
+    min-width: 150px;
+    border: 1px solid #e0e0e0;
+}
+
+table.dicom > tbody > tr > td + td
+{
+    font-weight: 400;
+    min-width: initial;
+    border: 1px solid #e0e0e0;
+}
+
+/******************************************************************************** 
+ *** hides '¦ NOTE:' from DOCS, but displayed in VS Intelli only 
+ ********************************************************************************/
+span.hide
+{
+    display: none;
+}
+
+/******************************************************************************** 
+ *** color the table labels with dark red
+ ********************************************************************************/
+
+h4.h4label
+{
+    color: #000000;
+    border-bottom: 2px solid #f0f0f0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/******************************************************************************** 
+ *** section margin
+ ********************************************************************************/
+
+div.section
+{
+    margin-left: 15px;
+}
+
+/******************************************************************************** 
+ *** display and format ' view in standard ' links
+ ********************************************************************************/
+a.viewinstandard:before
+{
+    content: " view in standard ";
+    font-style: italic;
+    font-size: 11px;
+    color: #888888;
+}
+/******************************************************************************** 
+ *** math formula place holders
+ ********************************************************************************/
+div.equation
+{
+    
+}
+div.equation > p.title
+{
+
+}
+div.equation-contents
+{
+
+}
+img.math
+{
+
+}
+
+
+/********************************************************************************
+ *** http external links formatting and icon after link
+ ********************************************************************************/
+a[href^="http"]
+{
+    color: #505050;
+    background-color: rgba(255, 255, 255, 0.10);
+    border-bottom: 1px dashed #e0e0e0;
+}
+
+a[href^="http"]:visited
+{
+    color: #6060a0;
+    background-color: rgba(255, 255, 255, 0.50);
+    border-bottom: 1px dashed #e0e0e0;
+}
+
+a[href^="http"]:hover
+{
+    color: #000000;
+    background-color: rgba(255, 255, 224, 1.00);
+    border-bottom: 1px solid #c0c0c0;
+}
+
+a[href^="http"]::after
+{
+    /* content:""; : must exist, otherwise image is not displayed */
+    content: "";
+    background: url(data:image/gif;base64,R0lGODlhDAAMAIQXADRmzDlqzUBw0EFwz0Vz0VyF1oCg34Gh4ISj4Iel4aG56KS76LDE67fJ7bvM7r/P78nW8dXg9Obs+e3y+/v8/v3+//7+/////////////////////////////////////yH5BAEKAB8ALAAAAAAMAAwAAAU74CeOZCkCaFoCRnVdFmACyHvJX4o2Ng5QEYLjAklUfJMBg4g6+C6KgkMgw+Vei8DDerJJKNycDmUqj0IAOw==) no-repeat center center;
+    padding: 0px 4px 0px 10px;
+}

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Introduction to the Open High Performance Counters (open.hpc) library" Url="html/05ba8cb6-b0b2-40b4-9878-5afefbddab3e.htm" />
+  <HelpTOCNode Id="6bf4c0aa-948b-42f0-a76c-f0b07f540e3f" Title="open.hpc" Url="html/6bf10909-dac2-dc51-ffe2-2c951497ca4b.htm">
+    <HelpTOCNode Id="3172e870-f849-4f91-bde6-3fe85360fcb4" Title="HPCMeter Class" Url="html/edbbd9c4-e86c-81b5-736e-9bd265586499.htm">
+      <HelpTOCNode Id="91fa81e1-a65a-4924-9cb0-619b4a8a32bc" Title="HPCMeter Constructor " Url="html/16211aec-b030-c941-e66d-0ee89c2af58d.htm">
+        <HelpTOCNode Title="HPCMeter Constructor " Url="html/ac865ce7-653f-eff0-fae7-6c4eb5744fef.htm" />
+        <HelpTOCNode Title="HPCMeter Constructor (String)" Url="html/e2c9f3af-d821-9655-510d-42cfe21b9275.htm" />
+        <HelpTOCNode Title="HPCMeter Constructor (String, HPCMeterCollection)" Url="html/78ca8601-9856-a7b5-a6e4-336a2d39d116.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d331fac4-ebb6-4954-9a69-00f9f7ad92ba" Title="HPCMeter Properties" Url="html/c8d22f37-5bb7-a2da-62d9-ba969d88dff6.htm">
+        <HelpTOCNode Title="CurrentTime Property " Url="html/f7afa158-a7c7-9fa2-7f66-34dc0620724d.htm" />
+        <HelpTOCNode Title="SumAverage Property " Url="html/008a4ae0-bf2f-07ab-4856-1dad8bdf1369.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6dac65d2-66a4-4145-9a63-7a7c89e28826" Title="HPCMeter Methods" Url="html/92e12b49-418e-6684-3390-fcb7b03fcf3f.htm">
+        <HelpTOCNode Title="GetDuration Method " Url="html/9af51733-2a54-f2e7-026b-796d8176dd01.htm" />
+        <HelpTOCNode Title="GetLastDuration Method " Url="html/3214185c-7bd4-7d46-0892-e7f3b60a6f1b.htm" />
+        <HelpTOCNode Id="57e9a872-aed1-4f07-be1a-fa28250a65fd" Title="Reset Method " Url="html/10cb83f0-0e54-4cee-007e-305475549e54.htm">
+          <HelpTOCNode Title="Reset Method " Url="html/7fdd09ba-eb87-9e63-fef5-b3f9d725acb0.htm" />
+          <HelpTOCNode Title="Reset Method (String)" Url="html/cc48b0b9-611c-5e08-31d7-92a9e0c349ae.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ResetSumData Method " Url="html/e681d8d5-32d4-3fae-56f4-65a9d825286a.htm" />
+        <HelpTOCNode Title="Sum Method " Url="html/e3beadbc-22c6-3d86-dc13-c8a27f138172.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ea29d688-a80b-4296-bbb1-b2fd35380bcb" Title="HPCMeter Fields" Url="html/fdfbe5ac-f60a-816d-9285-35a889973210.htm">
+        <HelpTOCNode Title="Frequency Field" Url="html/6366899a-e01f-3340-c0b9-e57be6740b39.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/f604a755-e194-91a9-3ef9-cebc4a25a8a1.htm" />
+        <HelpTOCNode Title="StartTime Field" Url="html/14a58c15-6bf0-bd7e-c9a9-c09ad7e79e3c.htm" />
+        <HelpTOCNode Title="StopTime Field" Url="html/6ac5c8e2-dc82-d4f5-5759-b6928a61e23e.htm" />
+        <HelpTOCNode Title="SumCount Field" Url="html/225b27db-2f49-f70e-72f5-4ab121c7c92b.htm" />
+        <HelpTOCNode Title="SumTime Field" Url="html/95062dde-c0e4-dda6-6b6b-7d752cba0a9a.htm" />
+        <HelpTOCNode Title="SumTimeMax Field" Url="html/02d340b4-709a-22bf-a026-aac52450bfa7.htm" />
+        <HelpTOCNode Title="SumTimeMaxOccurrence Field" Url="html/1223faa6-a825-a30e-7b71-9d948628e31d.htm" />
+        <HelpTOCNode Title="SumTimeMin Field" Url="html/326b4bbc-2077-eb92-8acc-2cf17deb91a2.htm" />
+        <HelpTOCNode Title="SumTimeMinOccurrence Field" Url="html/56b9393d-0b57-968b-ac3f-7c6e2c291d07.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fe3e06db-b182-4ab4-9284-413c14f9acf4" Title="HPCMeterCollection Class" Url="html/909560e0-bb8e-bade-a838-5a904becb19c.htm">
+      <HelpTOCNode Title="HPCMeterCollection Constructor " Url="html/f88a29e4-c896-a219-7f3c-e40c741451c1.htm" />
+      <HelpTOCNode Id="7a872c49-114e-4849-8183-fc348e1fbe8a" Title="HPCMeterCollection Properties" Url="html/3cdfd3f2-0e7e-7c49-b7ec-bae7a1b15003.htm">
+        <HelpTOCNode Title="Default Property " Url="html/60174778-3c44-b73b-e892-aab9cc2a8861.htm" />
+        <HelpTOCNode Title="QPCFrequency Property " Url="html/e4f201e9-d884-fac2-1810-131c761d1d7c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f0617d69-fdae-4021-9477-fd4055125015" Title="HPCMeterCollection Methods" Url="html/926ea7a5-597e-c087-953e-453538243b02.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/1b1234f6-f2fb-6145-56ea-c7752faecd04.htm" />
+        <HelpTOCNode Title="ClearSumData Method " Url="html/0bd9526c-4b44-5f44-8eda-f0c577982f52.htm" />
+        <HelpTOCNode Title="DefaultShowStatistics Method " Url="html/78681677-8041-345f-7156-8bcf3d9eb6fa.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/7c8a10f8-ecb3-3ac1-ec2d-fbc4501a1559.htm" />
+        <HelpTOCNode Id="257f4b74-3f46-491a-96db-eb1de3161c5d" Title="DoSum Method " Url="html/80a76e1e-35f7-657c-76a1-cb3495d2c475.htm">
+          <HelpTOCNode Title="DoSum Method (HPCMeter)" Url="html/45a4d2d7-5fa5-20d4-e094-56a32827ee2e.htm" />
+          <HelpTOCNode Title="DoSum Method (String)" Url="html/fa53c686-3bf3-ad76-002b-63a94fd071c2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Finalize Method " Url="html/002d59cc-fdc1-ed1b-6de0-61b96a1b197a.htm" />
+        <HelpTOCNode Title="IDisposable.Dispose Method " Url="html/fafeef69-7489-383c-b4b8-dc564809ad84.htm" />
+        <HelpTOCNode Id="1e5642ca-eca1-48fb-9f6d-22dec03e1537" Title="Reset Method " Url="html/ec9f5039-146d-f33c-dfd9-b56c8bb46c5c.htm">
+          <HelpTOCNode Title="Reset Method (HPCMeter)" Url="html/1ffb646e-4d7a-bb09-07c8-ea493375348c.htm" />
+          <HelpTOCNode Title="Reset Method (String)" Url="html/f8a5bf1d-01c6-ec5f-ac03-5be320ed573e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ShowStatistics Method " Url="html/d2dda4e0-ea57-63f1-a65e-732c7480272e.htm" />
+        <HelpTOCNode Id="d90091e3-ecad-45b5-8810-c4db8f923de3" Title="Track Method " Url="html/789bc4e2-f2fc-b683-35ef-e466a508a4fb.htm">
+          <HelpTOCNode Title="Track Method (HPCMeter)" Url="html/4b3ae20e-2b72-b3ee-dd21-4a727f4fc197.htm" />
+          <HelpTOCNode Title="Track Method (String)" Url="html/5a0acd38-495a-e4a1-2582-4b632e833434.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1a7549d4-58a1-426a-b3b3-8216661138b5" Title="HPCMeterCollection Fields" Url="html/1eb3b03c-c285-2d4c-e09b-2038947fdcaa.htm">
+        <HelpTOCNode Title="DoubleFormatSpecifier Field" Url="html/5c54cc1a-2b0f-13cc-cfcb-8935f3d23365.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a94fcbbf-2691-45f8-8af2-6a115631d6e0" Title="HPCMeterSum Class" Url="html/7241b43d-0784-9664-f0f7-c48cdb038a05.htm">
+      <HelpTOCNode Id="a3779fab-5002-4085-8ad3-7ccf9170f359" Title="HPCMeterSum Constructor " Url="html/b740a72c-12da-3ed6-2dd8-c1b5a492a354.htm">
+        <HelpTOCNode Title="HPCMeterSum Constructor (HPCMeter)" Url="html/41937be7-b2a0-a218-c8c5-843585a6cad4.htm" />
+        <HelpTOCNode Title="HPCMeterSum Constructor (String)" Url="html/1ab51689-e20e-3aff-b1f0-69fc09fe41d6.htm" />
+        <HelpTOCNode Title="HPCMeterSum Constructor (HPCMeterCollection, HPCMeter)" Url="html/033abb83-c485-4536-d064-f59622a4b43f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="62885cf5-bdd7-47c5-8ce6-2eaf216557f4" Title="HPCMeterSum Methods" Url="html/0f6d991f-30d8-322c-41ac-deaf893347fa.htm">
+        <HelpTOCNode Title="CreateNewMeterCollection Method " Url="html/41026bf2-d3bc-3553-4ab8-5bece86da1bf.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/ee60dfb0-fdcd-5f9f-f43c-61f7422685a1.htm" />
+        <HelpTOCNode Title="Finalize Method " Url="html/dd59d4e5-43bd-90df-0c4d-8be8e774a3e0.htm" />
+        <HelpTOCNode Title="RestoreDefaultMeterCollection Method " Url="html/73be78ca-35ef-39e7-51af-8e2dde95e99e.htm" />
+        <HelpTOCNode Title="ShowStatistics Method " Url="html/805363d5-1f7c-1bb5-f9e4-d8778b747f10.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2527d20a-7231-44d7-85ae-1b4f362ea49c" Title="HPCMeterSum Fields" Url="html/2017ecb1-bd1e-d4cb-a454-6f435ca35841.htm">
+        <HelpTOCNode Title="CurrentMeterCollection Field" Url="html/905aaf23-ecff-09d8-d070-cd9f662aaace.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

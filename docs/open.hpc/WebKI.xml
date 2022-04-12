@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Clear method" Url="html/1b1234f6-f2fb-6145-56ea-c7752faecd04.htm" />
+  <HelpKINode Title="ClearSumData method" Url="html/0bd9526c-4b44-5f44-8eda-f0c577982f52.htm" />
+  <HelpKINode Title="CreateNewMeterCollection method" Url="html/41026bf2-d3bc-3553-4ab8-5bece86da1bf.htm" />
+  <HelpKINode Title="CurrentMeterCollection field" Url="html/905aaf23-ecff-09d8-d070-cd9f662aaace.htm" />
+  <HelpKINode Title="CurrentTime property" Url="html/f7afa158-a7c7-9fa2-7f66-34dc0620724d.htm" />
+  <HelpKINode Title="Default property" Url="html/60174778-3c44-b73b-e892-aab9cc2a8861.htm" />
+  <HelpKINode Title="DefaultShowStatistics method" Url="html/78681677-8041-345f-7156-8bcf3d9eb6fa.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="HPCMeterCollection.Dispose Method " Url="html/7c8a10f8-ecb3-3ac1-ec2d-fbc4501a1559.htm" />
+    <HelpKINode Title="HPCMeterSum.Dispose Method " Url="html/ee60dfb0-fdcd-5f9f-f43c-61f7422685a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DoSum method" Url="html/80a76e1e-35f7-657c-76a1-cb3495d2c475.htm" />
+  <HelpKINode Title="DoubleFormatSpecifier field" Url="html/5c54cc1a-2b0f-13cc-cfcb-8935f3d23365.htm" />
+  <HelpKINode Title="Finalize method">
+    <HelpKINode Title="HPCMeterCollection.Finalize Method " Url="html/002d59cc-fdc1-ed1b-6de0-61b96a1b197a.htm" />
+    <HelpKINode Title="HPCMeterSum.Finalize Method " Url="html/dd59d4e5-43bd-90df-0c4d-8be8e774a3e0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Frequency field" Url="html/6366899a-e01f-3340-c0b9-e57be6740b39.htm" />
+  <HelpKINode Title="GetDuration method" Url="html/9af51733-2a54-f2e7-026b-796d8176dd01.htm" />
+  <HelpKINode Title="GetLastDuration method" Url="html/3214185c-7bd4-7d46-0892-e7f3b60a6f1b.htm" />
+  <HelpKINode Title="HPCMeter class">
+    <HelpKINode Title="HPCMeter Class" Url="html/edbbd9c4-e86c-81b5-736e-9bd265586499.htm" />
+    <HelpKINode Title="constructor" Url="html/16211aec-b030-c941-e66d-0ee89c2af58d.htm" />
+    <HelpKINode Title="fields" Url="html/fdfbe5ac-f60a-816d-9285-35a889973210.htm" />
+    <HelpKINode Title="methods" Url="html/92e12b49-418e-6684-3390-fcb7b03fcf3f.htm" />
+    <HelpKINode Title="properties" Url="html/c8d22f37-5bb7-a2da-62d9-ba969d88dff6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HPCMeter.CurrentTime property" Url="html/f7afa158-a7c7-9fa2-7f66-34dc0620724d.htm" />
+  <HelpKINode Title="HPCMeter.Frequency field" Url="html/6366899a-e01f-3340-c0b9-e57be6740b39.htm" />
+  <HelpKINode Title="HPCMeter.GetDuration method" Url="html/9af51733-2a54-f2e7-026b-796d8176dd01.htm" />
+  <HelpKINode Title="HPCMeter.GetLastDuration method" Url="html/3214185c-7bd4-7d46-0892-e7f3b60a6f1b.htm" />
+  <HelpKINode Title="HPCMeter.HPCMeter constructor" Url="html/16211aec-b030-c941-e66d-0ee89c2af58d.htm" />
+  <HelpKINode Title="HPCMeter.Name field" Url="html/f604a755-e194-91a9-3ef9-cebc4a25a8a1.htm" />
+  <HelpKINode Title="HPCMeter.Reset method" Url="html/10cb83f0-0e54-4cee-007e-305475549e54.htm" />
+  <HelpKINode Title="HPCMeter.ResetSumData method" Url="html/e681d8d5-32d4-3fae-56f4-65a9d825286a.htm" />
+  <HelpKINode Title="HPCMeter.StartTime field" Url="html/14a58c15-6bf0-bd7e-c9a9-c09ad7e79e3c.htm" />
+  <HelpKINode Title="HPCMeter.StopTime field" Url="html/6ac5c8e2-dc82-d4f5-5759-b6928a61e23e.htm" />
+  <HelpKINode Title="HPCMeter.Sum method" Url="html/e3beadbc-22c6-3d86-dc13-c8a27f138172.htm" />
+  <HelpKINode Title="HPCMeter.SumAverage property" Url="html/008a4ae0-bf2f-07ab-4856-1dad8bdf1369.htm" />
+  <HelpKINode Title="HPCMeter.SumCount field" Url="html/225b27db-2f49-f70e-72f5-4ab121c7c92b.htm" />
+  <HelpKINode Title="HPCMeter.SumTime field" Url="html/95062dde-c0e4-dda6-6b6b-7d752cba0a9a.htm" />
+  <HelpKINode Title="HPCMeter.SumTimeMax field" Url="html/02d340b4-709a-22bf-a026-aac52450bfa7.htm" />
+  <HelpKINode Title="HPCMeter.SumTimeMaxOccurrence field" Url="html/1223faa6-a825-a30e-7b71-9d948628e31d.htm" />
+  <HelpKINode Title="HPCMeter.SumTimeMin field" Url="html/326b4bbc-2077-eb92-8acc-2cf17deb91a2.htm" />
+  <HelpKINode Title="HPCMeter.SumTimeMinOccurrence field" Url="html/56b9393d-0b57-968b-ac3f-7c6e2c291d07.htm" />
+  <HelpKINode Title="HPCMeterCollection class">
+    <HelpKINode Title="HPCMeterCollection Class" Url="html/909560e0-bb8e-bade-a838-5a904becb19c.htm" />
+    <HelpKINode Title="constructor" Url="html/f88a29e4-c896-a219-7f3c-e40c741451c1.htm" />
+    <HelpKINode Title="fields" Url="html/1eb3b03c-c285-2d4c-e09b-2038947fdcaa.htm" />
+    <HelpKINode Title="methods" Url="html/926ea7a5-597e-c087-953e-453538243b02.htm" />
+    <HelpKINode Title="properties" Url="html/3cdfd3f2-0e7e-7c49-b7ec-bae7a1b15003.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HPCMeterCollection.Clear method" Url="html/1b1234f6-f2fb-6145-56ea-c7752faecd04.htm" />
+  <HelpKINode Title="HPCMeterCollection.ClearSumData method" Url="html/0bd9526c-4b44-5f44-8eda-f0c577982f52.htm" />
+  <HelpKINode Title="HPCMeterCollection.Default property" Url="html/60174778-3c44-b73b-e892-aab9cc2a8861.htm" />
+  <HelpKINode Title="HPCMeterCollection.DefaultShowStatistics method" Url="html/78681677-8041-345f-7156-8bcf3d9eb6fa.htm" />
+  <HelpKINode Title="HPCMeterCollection.Dispose method" Url="html/7c8a10f8-ecb3-3ac1-ec2d-fbc4501a1559.htm" />
+  <HelpKINode Title="HPCMeterCollection.DoSum method" Url="html/80a76e1e-35f7-657c-76a1-cb3495d2c475.htm" />
+  <HelpKINode Title="HPCMeterCollection.DoubleFormatSpecifier field" Url="html/5c54cc1a-2b0f-13cc-cfcb-8935f3d23365.htm" />
+  <HelpKINode Title="HPCMeterCollection.Finalize method" Url="html/002d59cc-fdc1-ed1b-6de0-61b96a1b197a.htm" />
+  <HelpKINode Title="HPCMeterCollection.HPCMeterCollection constructor" Url="html/f88a29e4-c896-a219-7f3c-e40c741451c1.htm" />
+  <HelpKINode Title="HPCMeterCollection.IDisposable.Dispose explicitly implemented method" Url="html/fafeef69-7489-383c-b4b8-dc564809ad84.htm" />
+  <HelpKINode Title="HPCMeterCollection.QPCFrequency property" Url="html/e4f201e9-d884-fac2-1810-131c761d1d7c.htm" />
+  <HelpKINode Title="HPCMeterCollection.Reset method" Url="html/ec9f5039-146d-f33c-dfd9-b56c8bb46c5c.htm" />
+  <HelpKINode Title="HPCMeterCollection.ShowStatistics method" Url="html/d2dda4e0-ea57-63f1-a65e-732c7480272e.htm" />
+  <HelpKINode Title="HPCMeterCollection.Track method" Url="html/789bc4e2-f2fc-b683-35ef-e466a508a4fb.htm" />
+  <HelpKINode Title="HPCMeterSum class">
+    <HelpKINode Title="HPCMeterSum Class" Url="html/7241b43d-0784-9664-f0f7-c48cdb038a05.htm" />
+    <HelpKINode Title="constructor" Url="html/b740a72c-12da-3ed6-2dd8-c1b5a492a354.htm" />
+    <HelpKINode Title="fields" Url="html/2017ecb1-bd1e-d4cb-a454-6f435ca35841.htm" />
+    <HelpKINode Title="methods" Url="html/0f6d991f-30d8-322c-41ac-deaf893347fa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HPCMeterSum.CreateNewMeterCollection method" Url="html/41026bf2-d3bc-3553-4ab8-5bece86da1bf.htm" />
+  <HelpKINode Title="HPCMeterSum.CurrentMeterCollection field" Url="html/905aaf23-ecff-09d8-d070-cd9f662aaace.htm" />
+  <HelpKINode Title="HPCMeterSum.Dispose method" Url="html/ee60dfb0-fdcd-5f9f-f43c-61f7422685a1.htm" />
+  <HelpKINode Title="HPCMeterSum.Finalize method" Url="html/dd59d4e5-43bd-90df-0c4d-8be8e774a3e0.htm" />
+  <HelpKINode Title="HPCMeterSum.HPCMeterSum constructor" Url="html/b740a72c-12da-3ed6-2dd8-c1b5a492a354.htm" />
+  <HelpKINode Title="HPCMeterSum.RestoreDefaultMeterCollection method" Url="html/73be78ca-35ef-39e7-51af-8e2dde95e99e.htm" />
+  <HelpKINode Title="HPCMeterSum.ShowStatistics method" Url="html/805363d5-1f7c-1bb5-f9e4-d8778b747f10.htm" />
+  <HelpKINode Title="IDisposable.Dispose explicitly implemented method" Url="html/fafeef69-7489-383c-b4b8-dc564809ad84.htm" />
+  <HelpKINode Title="Name field" Url="html/f604a755-e194-91a9-3ef9-cebc4a25a8a1.htm" />
+  <HelpKINode Title="open.hpc namespace" Url="html/6bf10909-dac2-dc51-ffe2-2c951497ca4b.htm" />
+  <HelpKINode Title="open.hpc.HPCMeter class" Url="html/edbbd9c4-e86c-81b5-736e-9bd265586499.htm" />
+  <HelpKINode Title="open.hpc.HPCMeterCollection class" Url="html/909560e0-bb8e-bade-a838-5a904becb19c.htm" />
+  <HelpKINode Title="open.hpc.HPCMeterSum class" Url="html/7241b43d-0784-9664-f0f7-c48cdb038a05.htm" />
+  <HelpKINode Title="QPCFrequency property" Url="html/e4f201e9-d884-fac2-1810-131c761d1d7c.htm" />
+  <HelpKINode Title="Reset method">
+    <HelpKINode Title="HPCMeter.Reset Method " Url="html/10cb83f0-0e54-4cee-007e-305475549e54.htm" />
+    <HelpKINode Title="HPCMeterCollection.Reset Method " Url="html/ec9f5039-146d-f33c-dfd9-b56c8bb46c5c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResetSumData method" Url="html/e681d8d5-32d4-3fae-56f4-65a9d825286a.htm" />
+  <HelpKINode Title="RestoreDefaultMeterCollection method" Url="html/73be78ca-35ef-39e7-51af-8e2dde95e99e.htm" />
+  <HelpKINode Title="ShowStatistics method">
+    <HelpKINode Title="HPCMeterCollection.ShowStatistics Method " Url="html/d2dda4e0-ea57-63f1-a65e-732c7480272e.htm" />
+    <HelpKINode Title="HPCMeterSum.ShowStatistics Method " Url="html/805363d5-1f7c-1bb5-f9e4-d8778b747f10.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Something" Url="html/05ba8cb6-b0b2-40b4-9878-5afefbddab3e.htm" />
+  <HelpKINode Title="StartTime field" Url="html/14a58c15-6bf0-bd7e-c9a9-c09ad7e79e3c.htm" />
+  <HelpKINode Title="StopTime field" Url="html/6ac5c8e2-dc82-d4f5-5759-b6928a61e23e.htm" />
+  <HelpKINode Title="Sum method" Url="html/e3beadbc-22c6-3d86-dc13-c8a27f138172.htm" />
+  <HelpKINode Title="SumAverage property" Url="html/008a4ae0-bf2f-07ab-4856-1dad8bdf1369.htm" />
+  <HelpKINode Title="SumCount field" Url="html/225b27db-2f49-f70e-72f5-4ab121c7c92b.htm" />
+  <HelpKINode Title="SumTime field" Url="html/95062dde-c0e4-dda6-6b6b-7d752cba0a9a.htm" />
+  <HelpKINode Title="SumTimeMax field" Url="html/02d340b4-709a-22bf-a026-aac52450bfa7.htm" />
+  <HelpKINode Title="SumTimeMaxOccurrence field" Url="html/1223faa6-a825-a30e-7b71-9d948628e31d.htm" />
+  <HelpKINode Title="SumTimeMin field" Url="html/326b4bbc-2077-eb92-8acc-2cf17deb91a2.htm" />
+  <HelpKINode Title="SumTimeMinOccurrence field" Url="html/56b9393d-0b57-968b-ac3f-7c6e2c291d07.htm" />
+  <HelpKINode Title="Track method" Url="html/789bc4e2-f2fc-b683-35ef-e466a508a4fb.htm" />
+</HelpKI>
